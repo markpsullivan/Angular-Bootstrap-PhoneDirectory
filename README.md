@@ -1,2 +1,3 @@
-# Angular-Bootstrap-PhoneDirectory
-Responsive Table Company Phone Directory utilizing AngularJS and Bootstrap with Static JSON Data. Powershell command provided to Extract JSON data from Microsoft Active Directory
+# Angular-Bootstrap-PhoneDirectory-Emp-Dept
+Responsive Company Phone Directory  (Employee and Dept Data source) utilizing AngularJS and Bootstrap with Static JSON Data. 
+Powershell command provided to Extract JSON data from Microsoft Active Directory
